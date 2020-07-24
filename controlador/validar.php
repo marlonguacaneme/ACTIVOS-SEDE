@@ -34,7 +34,7 @@ session_start();
 			$_SESSION['user']=$f['user'];
 			$_SESSION['rol']=$f['rol'];
 
-			header("Location: ../vistauser.php");
+			header("Location: ../Modulo2/MenuPrincipal.php");
 		}else{
 			echo '<script>alert("CONTRASEÑA INCORRECTA")</script> ';
 
