@@ -16,7 +16,7 @@
                     </div>   
                     <div class="col-lg-12"><br> </div>    
                         <div class="col-lg-12">
-                                <a href="View/PersonalExterno.php" class="btn btn-sq-lg btn-success">
+                                <a href="View/BusquedaExterno.php" class="btn btn-sq-lg btn-success">
                                 <i class="fa fa-user fa-5x"></i><br/><br>
                                 Personal Externo
                                 </a>
